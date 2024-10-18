@@ -1,2 +1,2 @@
 # Python-Decimal-to-Binary-generator
-New Repository
+Under Construction, plz be patient :))
